@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Javier from Bilbao (Basque Caountry)
+- 👋 Hi, I’m Javier from Bilbao (Basque Country)
 - 👀 I’m interested in Operating System run efficiently
 - 🌱 I’m currently learning how recover the time swittching off my mobile phone.
 - 💞️ I’m looking to collaborate on ...
